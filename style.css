@@ -1,0 +1,33 @@
+#buttonSumbit{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#buttonSort{
+    display: none;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+body{
+    background: linear-gradient(rgb(221, 23, 178) 10%, rgb(255, 10, 63) 40%) ;
+  
+}
+input{
+    margin: 10px;
+}
+h3{
+    font-size: 40px;
+    color: white ;
+}
+body{
+    color: white;
+}
+#innerdiv{
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+    position: relative;
+}
+#maindiv{
+    display: table;
+    position: inherit;
+}
